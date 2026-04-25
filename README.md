@@ -60,16 +60,16 @@
 ## 🖼️ Dashboard Preview | معاينة الداشبورد
 
 ### Home Page
-![Home](images/home.png)
+![Home](images/home.jpg)
 
 ### Temporal Analysis | التحليل الزمني
-![Temporal](images/temporal.png)
+![Temporal](images/temporal.jpg)
 
 ### Product & Employee | المنتج والموظف
-![Product Employee](images/product_employee.png)
+![Product Employee](images/product_employee.jpg)
 
 ### City Analysis | تحليل المدينة
-![City](images/city.png)
+![City](images/city.jpg)
 
 ---
 
@@ -79,10 +79,10 @@
 Younes-Store-Sales-Dashboard/
 │
 ├── images/
-│   ├── home.png
-│   ├── temporal.png
-│   ├── product_employee.png
-│   └── city.png
+│   ├── home.jpg
+│   ├── temporal.jpg
+│   ├── product_employee.jpg
+│   └── city.jpg
 │
 └── README.md
 ```
